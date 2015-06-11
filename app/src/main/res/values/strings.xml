@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYTimesDesignDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="messages">Messages</string>
+    <string name="friends">Friends</string>
+    <string name="discussion">Discussion</string>
+    <string name="sub_items">Sub items</string>
+    <string name="dashboard">Sub item 1</string>
+    <string name="forum">Sub item 2</string>
+</resources>
